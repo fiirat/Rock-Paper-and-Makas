@@ -1,1 +1,1 @@
-# Rock-Paper-and-Makas
+Refined a youtube tutorial code to practice javascript.
